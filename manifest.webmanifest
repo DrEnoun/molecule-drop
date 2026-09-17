@@ -1,0 +1,17 @@
+{
+  "name": "Molecule Drop: Bond & Build",
+  "short_name": "Molecule Drop",
+  "description": "A chemistry arcade game for learning atoms, bonds, molecular geometry and functional groups.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#03101d",
+  "theme_color": "#092035",
+  "categories": ["education", "games"],
+  "icons": [
+    {"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
